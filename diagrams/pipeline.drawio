@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" modified="2023-09-18T09:15:23.130Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="R9b0Y7L6O34GokACwWws" version="21.7.5" type="device">
+  <diagram name="Trang-1" id="d-uLDytns0ca5KDsgeg7">
+    <mxGraphModel dx="1434" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rVz8kiJvreGAVM2ywobL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="425" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="290" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-2" value="Install front-end dependencies" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="290" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-4" value="Run Front-end Linter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="300" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="290" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-6" value="Run Front-end tests" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="445" y="300" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="290" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-8" value="Install Back-end dependencies" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="660" y="300" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="425" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-10" value="Run Front-end build" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="430" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="425" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-12" value="Run Back-end build" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="430" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-17" value="Run Back-end deploy&lt;br&gt;Run Front-end deploy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="440" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-19" value="UDAGRAM PIPELINE STEPS" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="180" y="140" width="500" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ELD8sFuISStm5UuoPya4-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="325" as="sourcePoint" />
+            <mxPoint x="220" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="324.5" as="sourcePoint" />
+            <mxPoint x="430" y="324.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="324.5" as="sourcePoint" />
+            <mxPoint x="650" y="324.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.438;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="ELD8sFuISStm5UuoPya4-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="360" as="sourcePoint" />
+            <mxPoint x="780" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="455.51" as="sourcePoint" />
+            <mxPoint x="590" y="454.49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELD8sFuISStm5UuoPya4-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="459.5" as="sourcePoint" />
+            <mxPoint x="370" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
